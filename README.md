@@ -1,14 +1,21 @@
-AdvGAN-tf
-Tensorflow implementation of Generating Adversarial Examples with Adversarial Networks
+Attention-ATN
+======
+Tensorflow implementation of ttention-ATN: A Method to Generate Transferable Adversarial \\
+Examples}
 
 USAGE
-Create a ./weights directory as well as subdirectories ./weights/generator, ./weights/discriminator, ./weights/target_model to contain the saved weights for each model.
 
+Download the weight about defense model,cycle_gan model and based-model used to calculate cam-matrix from
+[http://www.baidu.com](http://www.baidu.com "x")
+
+------
 First run:
 
-python target_models.py
+pip install -r requirements.txt
+
 which will extract the MNIST dataset using the Keras API and train a simple CNN model that will serve as the 'target model' for the generator to trick.
 
+------
 Next, run:
 
 python AdvGAN.py

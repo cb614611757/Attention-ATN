@@ -21,7 +21,7 @@ slim = tf.contrib.slim
 tf.flags.DEFINE_integer('batch_size', 4, 'batch size, default: 1')
 tf.flags.DEFINE_integer('image_size', 299, 'image size, default: 299')
 tf.flags.DEFINE_string('input_dir', 'data/',  'The file dir to read imagesdefault:data')
-tf.flags.DEFINE_string('output_dir', 'att_atn_images', 'The file dir to save images')
+tf.flags.DEFINE_string('output_dir', 'att_atn_images', 'The file folder to save images')
 tf.flags.DEFINE_bool('is_training', True, 'Decide train Generator network or not.')
 tf.flags.DEFINE_string('checkpoint_path', 'save_models/model.ckpt-116000', 'Path to load checkpoint for Generator network.')
 tf.flags.DEFINE_string('save_checkpoint_path', 'att_atn_logs', 'the Path to save checkpoint for gan network.')

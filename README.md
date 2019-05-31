@@ -28,15 +28,6 @@ The loss curve of training Attention-ATN:
 
 Compare with raw images and adversarial Examples:
 
-![raw image1](cam_image/image1.png "百度图片")
-![Adversarial Example1](cam_image/1.png "百度图片")
-
-![raw image2](cam_image/image2.png "百度图片")
-![Adversarial Example2](cam_image/2.png "百度图片")
-
-![raw image3](cam_image/image4.png "百度图片")
-![Adversarial Example3](cam_image/3.png "百度图片")
-
 <img width="150" height="150" src="cam_image/image1.png"/>
 <img width="150" height="150" src="cam_image/1.png"/>
 <img width="150" height="150" src="cam_image/image2.png"/>
@@ -45,30 +36,6 @@ Compare with raw images and adversarial Examples:
 <img width="150" height="150" src="cam_image/3.png"/>
 
 
-<figure class="half">
-    <img src="cam_image/image1.png" width="300"/> 
-    <img rc="cam_image/1.png" width="300"/>
-</figure>
 
-<figure class="half">
-    <img src="cam_image/image2.png" width="300"/> 
-    <img src="cam_image/2.png" width="300"/>
-</figure>
 
-<figure class="half">
-    <img src="cam_image/image4.png" width="300"/> 
-    <img src="cam_image/3.png" width="300"/>
-</figure>
-
-#<center class="half">
-#<div align=left><img width="300" height="300" src="cam_image/image1.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/1.png"/></div>
-#</center>
-
-#<center class="half">
-#<div align=left><img width="300" height="300" src="cam_image/image2.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/2.png"/></div>
-#</center>
-
-#<center class="half">
-#<div align=left><img width="300" height="300" src="cam_image/image4.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/3.png"/></div>
-#</center>
 

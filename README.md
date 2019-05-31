@@ -28,13 +28,6 @@ The loss curve of training Attention-ATN:
 
 Compare with raw images and adversarial examples:
 
-<img width="150" height="150" src="cam_image/image1.png"/>
-<img width="150" height="150" src="cam_image/1.png"/>
-<img width="150" height="150" src="cam_image/image2.png"/>
-<img width="150" height="150" src="cam_image/2.png"/>
-<img width="150" height="150" src="cam_image/image4.png"/>
-<img width="150" height="150" src="cam_image/3.png"/>
-
 <table>
     <tr>
         <td ><center><img width="300" height="300" src="cam_image/image1.png" >image1 </center></td>

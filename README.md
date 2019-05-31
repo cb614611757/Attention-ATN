@@ -46,15 +46,18 @@ Compare with raw images and adversarial Examples:
 
 
 <figure class="half">
-    <img src="cam_image/image1.png" width="300"/> <img rc="cam_image/1.png" width="300"/>
+    <img src="cam_image/image1.png" width="300"/> 
+    <img rc="cam_image/1.png" width="300"/>
 </figure>
 
 <figure class="half">
-    <img src="cam_image/image2.png" width="300"/> <img src="cam_image/2.png" width="300"/>
+    <img src="cam_image/image2.png" width="300"/> 
+    <img src="cam_image/2.png" width="300"/>
 </figure>
 
 <figure class="half">
-    <img src="cam_image/image4.png" width="300"/> <img src="cam_image/3.png" width="300"/>
+    <img src="cam_image/image4.png" width="300"/> 
+    <img src="cam_image/3.png" width="300"/>
 </figure>
 
 #<center class="half">

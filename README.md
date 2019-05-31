@@ -44,10 +44,23 @@ Compare with raw images and adversarial Examples:
 <img width="150" height="150" src="cam_image/image4.png"/>
 <img width="150" height="150" src="cam_image/3.png"/>
 
-<div align=left><img width="300" height="300" src="cam_image/image1.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/1.png"/></div>
 
-<div align=left><img width="300" height="300" src="cam_image/image2.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/2.png"/></div>
+<center class="half">
+    <img src="cam_image/image1.png" width="300"/><img rc="cam_image/1.png" width="300"/>
+</center>
 
-<div align=left><img width="300" height="300" src="cam_image/image4.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/3.png"/></div>
+<center class="half">
+    <img src="cam_image/image2.png" width="300"/><img src="cam_image/2.png" width="300"/>
+</center>
+
+<center class="half">
+    <img src="cam_image/image4.png" width="300"/><img src="cam_image/3.png" width="300"/>
+</center>
+
+#<div align=left><img width="300" height="300" src="cam_image/image1.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/1.png"/></div>
+
+#<div align=left><img width="300" height="300" src="cam_image/image2.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/2.png"/></div>
+
+#<div align=left><img width="300" height="300" src="cam_image/image4.png"/></div>    <div align=center><img width="300" height="300" src="cam_image/3.png"/></div>
 
 

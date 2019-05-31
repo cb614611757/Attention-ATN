@@ -22,26 +22,18 @@ After training some steps, the chenkpoints and attack images will be saved to lo
 
 The loss curve of training Attention-ATN:
 
-![adv_loss.png](adv_loss.png "百度图片")
-![perturb_loss.png](perturb_loss.png "百度图片")
-![total_loss.png](total_loss.png "百度图片")
+<img width="300" height="300" src="cam_image/image1.png"/>
+<img width="300" height="300" src="cam_image/1.png"/>
+<img width="300" height="300" src="cam_image/image2.png"/>
+<img width="300" height="300" src="cam_image/2.png"/>
+<img width="300" height="300" src="cam_image/image4.png"/>
+<img width="300" height="300" src="cam_image/3.png"/>
 
-Compare with raw images and adversarial Examples:
-
-![raw image1](cam_image/image1.png "百度图片")
-![Adversarial Example1](cam_image/1.png "百度图片")
-
-![raw image2](cam_image/image2.png "百度图片")
-![Adversarial Example2](cam_image/2.png "百度图片")
-
-![raw image3](cam_image/image4.png "百度图片")
-![Adversarial Example3](cam_image/3.png "百度图片")
-
-<img width="150" height="150" src="cam_image/image1.png"/>
-<img width="150" height="150" src="cam_image/1.png"/>
-<img width="150" height="150" src="cam_image/image2.png"/>
-<img width="150" height="150" src="cam_image/2.png"/>
-<img width="150" height="150" src="cam_image/image4.png"/>
-<img width="150" height="150" src="cam_image/3.png"/>
+<div align=left><img width="300" height="300" src="cam_image/image1.png"/></div>
+<div align=center><img width="300" height="300" src="cam_image/1.png"/></div>
+<div align=right><img width="300" height="300" src="cam_image/image2.png"/></div>
+<div align=left><img width="300" height="300" src="cam_image/2.png"/></div>
+<div align=center><img width="300" height="300" src="cam_image/image4.png"/></div>
+<div align=right><img width="300" height="300" src="cam_image/3.png"/></div>
 
 

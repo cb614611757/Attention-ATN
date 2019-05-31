@@ -40,18 +40,22 @@ Compare with raw images and adversarial Examples:
         <td ><center><img src="cam_image/image1.png" >图1  新垣结衣1 </center></td>
         <td ><center><img src="cam_image/1.png"  >图2 新垣结衣1</center></td>
     </tr>
+</table>
 
+<table>
     <tr>
         <td><center><img src="cam_image/image2.png"  >图3 新垣结衣2</center></td>
         <td ><center><img src="cam_image/2.png"  >图4 新垣结衣2</center> </td>
     </tr>
+</table>
 
+<table>
     <tr>
         <td><center><img src="cam_image/image4.png"   > 图5 新垣结衣3</center></td>
         <td><center><img src="cam_image/3.png"  > 图6 新垣结衣3</center></td>
     </tr>
-</table>
 
+</table>
 
 
 

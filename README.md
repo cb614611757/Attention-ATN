@@ -26,7 +26,7 @@ The loss curve of training Attention-ATN:
 ![perturb_loss.png](perturb_loss.png "百度图片")
 ![total_loss.png](total_loss.png "百度图片")
 
-Compare with raw image and adversarial Examples:
+Compare with raw images and adversarial Examples:
 
 ![raw image1](cam_image/image1.png "百度图片")
 ![Adversarial Example1](cam_image/1.png "百度图片")
@@ -36,5 +36,12 @@ Compare with raw image and adversarial Examples:
 
 ![raw image3](cam_image/image4.png "百度图片")
 ![Adversarial Example3](cam_image/3.png "百度图片")
+
+<img width="150" height="150" src="cam_image/image1.png"/>
+<img width="150" height="150" src="cam_image/1.png"/>
+<img width="150" height="150" src="cam_image/image2.png"/>
+<img width="150" height="150" src="cam_image/2.png"/>
+<img width="150" height="150" src="cam_image/image4.png"/>
+<img width="150" height="150" src="cam_image/3.png"/>
 
 
